@@ -1,0 +1,21 @@
+D:\My System\ICT Ticketing System Updated\ICT Ticketing System\bin\Debug\ICT Ticketing System.exe.config
+D:\My System\ICT Ticketing System Updated\ICT Ticketing System\bin\Debug\ICT Ticketing System.exe
+D:\My System\ICT Ticketing System Updated\ICT Ticketing System\bin\Debug\ICT Ticketing System.pdb
+D:\My System\ICT Ticketing System Updated\ICT Ticketing System\bin\Debug\ICT Ticketing System.xml
+D:\My System\ICT Ticketing System Updated\ICT Ticketing System\bin\Debug\Tulpep.NotificationWindow.dll
+D:\My System\ICT Ticketing System Updated\ICT Ticketing System\bin\Debug\itextsharp.xml
+D:\My System\ICT Ticketing System Updated\ICT Ticketing System\obj\Debug\ICT Ticketing System.vbproj.AssemblyReference.cache
+D:\My System\ICT Ticketing System Updated\ICT Ticketing System\obj\Debug\ICT_Ticketing_System.AddTechnicianFrm.resources
+D:\My System\ICT Ticketing System Updated\ICT Ticketing System\obj\Debug\ICT_Ticketing_System.Add_user.resources
+D:\My System\ICT Ticketing System Updated\ICT Ticketing System\obj\Debug\ICT_Ticketing_System.frm_ticketing.resources
+D:\My System\ICT Ticketing System Updated\ICT Ticketing System\obj\Debug\ICT_Ticketing_System.mdi_main.resources
+D:\My System\ICT Ticketing System Updated\ICT Ticketing System\obj\Debug\ICT_Ticketing_System.Resources.resources
+D:\My System\ICT Ticketing System Updated\ICT Ticketing System\obj\Debug\ICT_Ticketing_System.PrintReport.resources
+D:\My System\ICT Ticketing System Updated\ICT Ticketing System\obj\Debug\ICT_Ticketing_System.UserForm.resources
+D:\My System\ICT Ticketing System Updated\ICT Ticketing System\obj\Debug\ICT_Ticketing_System.User_Log.resources
+D:\My System\ICT Ticketing System Updated\ICT Ticketing System\obj\Debug\ICT Ticketing System.vbproj.GenerateResource.cache
+D:\My System\ICT Ticketing System Updated\ICT Ticketing System\obj\Debug\ICT Ticketing System.vbproj.CoreCompileInputs.cache
+D:\My System\ICT Ticketing System Updated\ICT Ticketing System\obj\Debug\ICT Ticketing System.vbproj.CopyComplete
+D:\My System\ICT Ticketing System Updated\ICT Ticketing System\obj\Debug\ICT Ticketing System.exe
+D:\My System\ICT Ticketing System Updated\ICT Ticketing System\obj\Debug\ICT Ticketing System.xml
+D:\My System\ICT Ticketing System Updated\ICT Ticketing System\obj\Debug\ICT Ticketing System.pdb

@@ -1,0 +1,226 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ICT Ticketing System
+</name>
+</assembly>
+<members>
+<member name="T:ICT_Ticketing_System.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:ICT_Ticketing_System.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:ICT_Ticketing_System.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:ICT_Ticketing_System.My.Resources.Resources.fit">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ICT_Ticketing_System.My.Resources.Resources.icons8_access_40">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ICT_Ticketing_System.My.Resources.Resources.icons8_access_401">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ICT_Ticketing_System.My.Resources.Resources.icons8_account_70">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ICT_Ticketing_System.My.Resources.Resources.icons8_add_20">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ICT_Ticketing_System.My.Resources.Resources.icons8_alarm_20">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ICT_Ticketing_System.My.Resources.Resources.icons8_broom_20">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ICT_Ticketing_System.My.Resources.Resources.icons8_calendar_15">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ICT_Ticketing_System.My.Resources.Resources.icons8_calendar_20">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ICT_Ticketing_System.My.Resources.Resources.icons8_cancel_19">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ICT_Ticketing_System.My.Resources.Resources.icons8_cancel_32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ICT_Ticketing_System.My.Resources.Resources.icons8_cancel_50">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ICT_Ticketing_System.My.Resources.Resources.icons8_close_window_20">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ICT_Ticketing_System.My.Resources.Resources.icons8_close_window_201">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ICT_Ticketing_System.My.Resources.Resources.icons8_customer_19">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ICT_Ticketing_System.My.Resources.Resources.icons8_form_15">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ICT_Ticketing_System.My.Resources.Resources.icons8_key_40">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ICT_Ticketing_System.My.Resources.Resources.icons8_new_ticket_15">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ICT_Ticketing_System.My.Resources.Resources.icons8_new_ticket_8">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ICT_Ticketing_System.My.Resources.Resources.icons8_person_15">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ICT_Ticketing_System.My.Resources.Resources.icons8_print_20">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ICT_Ticketing_System.My.Resources.Resources.icons8_print_201">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ICT_Ticketing_System.My.Resources.Resources.icons8_print_50">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ICT_Ticketing_System.My.Resources.Resources.icons8_save_20">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ICT_Ticketing_System.My.Resources.Resources.icons8_save_as_32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ICT_Ticketing_System.My.Resources.Resources.icons8_search_15">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ICT_Ticketing_System.My.Resources.Resources.icons8_search_20">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ICT_Ticketing_System.My.Resources.Resources.icons8_search_50">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ICT_Ticketing_System.My.Resources.Resources.icons8_star_filled_10">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ICT_Ticketing_System.My.Resources.Resources.icons8_star_filled_15">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ICT_Ticketing_System.My.Resources.Resources.icons8_system_report_60">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ICT_Ticketing_System.My.Resources.Resources.icons8_ticket_20">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ICT_Ticketing_System.My.Resources.Resources.icons8_trash_15">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ICT_Ticketing_System.My.Resources.Resources.icons8_trash_32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ICT_Ticketing_System.My.Resources.Resources.icons8_unavailable_50">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ICT_Ticketing_System.My.Resources.Resources.icons8_update_15">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ICT_Ticketing_System.My.Resources.Resources.icons8_user_30">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ICT_Ticketing_System.My.Resources.Resources.icons8_user_filled_50">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ICT_Ticketing_System.My.Resources.Resources.icons8_worker_48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ICT_Ticketing_System.My.Resources.Resources.npdc_logo_png">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
